@@ -71,10 +71,10 @@
     "experiments": {
       "reactCompiler": true
     },
-    "extra": {
-      "eas": {
-        "projectId": "1052a28e-b6db-4aba-9a19-ecf0d38b3c67"
-      }
-    }
+  "extra": {
+  "eas": {
+    "projectId": "82878adc-7540-411a-9d51-e2fa617727f8"
+  }
+}
   }
 }
